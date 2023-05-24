@@ -1,0 +1,19 @@
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe.config
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\bin\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.pdb
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form1.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Properties.Resources.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csproj.GenerateResource.Cache
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.exe
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.pdb
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form2.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form4.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form5.resources
+D:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form3.resources
+Z:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csproj.AssemblyReference.cache
+Z:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form2.resources
+Z:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form4.resources
+Z:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form5.resources
+Z:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil_Test_Sürüşü_Rezervasyon_Sistemi.Form1.resources
+Z:\Otomobil Test Sürüşü Rezervasyon Sistemi\Otomobil Test Sürüşü Rezervasyon Sistemi\obj\Debug\Otomobil Test Sürüşü Rezervasyon Sistemi.csproj.GenerateResource.cache
